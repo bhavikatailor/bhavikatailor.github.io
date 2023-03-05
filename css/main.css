@@ -2520,4 +2520,12 @@ h2.title {
   color: #FE980F;
 }
 
+.logoTitle {
+  font-size: 27px;
+  color: #fe980f;
+  font-weight: bolder;
+}
 
+.descSlider {
+  color: #696763;
+}

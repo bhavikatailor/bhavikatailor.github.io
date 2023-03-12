@@ -2529,3 +2529,7 @@ h2.title {
 .descSlider {
   color: #696763;
 }
+
+.align-center {
+  text-align: center;
+}
